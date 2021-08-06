@@ -17,7 +17,7 @@ My [personal site](https://sprlau.github.io/) and [resume](https://sprlau.github
 
 ## Get in touch! 📨
 
-Wanna to…
+Wanna…
 
 * say hello?
 * ask for a helping hand?
