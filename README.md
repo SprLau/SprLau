@@ -11,7 +11,7 @@ I have been pondering how machines can break out of their computational boundari
 
 ## To know more about me… 🤔
 
-My [personal site](https://sprlau.github.io/) and [resume](https://sprlau.github.io/resume.pdf) are always public. ☑️
+My [personal site](https://sprlau.github.io/) and [resume](https://sprlau.github.io/zhaoxun_liu_resume.pdf) are always public. ☑️
 
 
 
