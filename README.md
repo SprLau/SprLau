@@ -1,7 +1,7 @@
 # Hi there! 👏👏🏻👏🏼👏🏽👏🏾👏🏿
 I am ***Zhaoxun Liu*** 🙋🏻‍♂️, you can always call me ***Springs*** if this procounces more easily.
 
-Currently I'm a junior year student in [Beihang University, also known as BUAA](buaa.edu.cn) pursuing ***B.Eng.*** in [Computer Science](scse.buaa.edu.cn).
+Currently I'm a junior year student in [Beihang University, also known as BUAA](http://buaa.edu.cn/) pursuing ***B.Eng.*** in [Computer Science](https://scse.buaa.edu.cn/).
 
 ------
 
@@ -11,7 +11,7 @@ I have been pondering how machines can break out of their computational boundari
 
 ## To know more about me… 🤔
 
-My [personal site](sprlau.github.io) and [resume](sprlau.github.io/resume.pdf) are always public. ☑️
+My [personal site](https://sprlau.github.io/) and [resume](https://sprlau.github.io/resume.pdf) are always public. ☑️
 
 
 
