@@ -3,7 +3,7 @@ I am ***Zhaoxun Liu*** 🙋🏻‍♂️, you can always call me ***Springs*** i
 
 Currently I'm a junior year student in [Beihang University, also known as BUAA](http://buaa.edu.cn/) pursuing ***B.Eng.*** in [Computer Science](https://scse.buaa.edu.cn/).
 
-![SprLau's GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=SprLau&show_icons=true&theme=calm)
+![SprLau's GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=SprLau&show_icons=true&theme=blueberry)
 
 ------
 
